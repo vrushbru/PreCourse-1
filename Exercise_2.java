@@ -1,7 +1,7 @@
 public class StackAsLinkedList { 
   
     StackNode root; 
-  
+  //checking
     static class StackNode { 
         int data; 
         StackNode next; 
